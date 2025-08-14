@@ -1,0 +1,10 @@
+streamlit>=1.24
+requests
+pandas
+Pillow
+streamlit-folium
+folium
+sentence-transformers
+transformers
+torch
+numpy
